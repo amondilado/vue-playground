@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "build-wc": "vue-cli-service build --target wc --name product-item ./src/components/ProductItem.vue --no-clean"
   },
   "dependencies": {
     "core-js": "^3.1.2",
