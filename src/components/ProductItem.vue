@@ -104,7 +104,7 @@ export default {
             }, {
                 variantId: 2,
                 variantColor: 'blue',
-                variantImage: 'https://via.placeholder.com/300/0000FF/1C02AD?text=BLUE',//require('../assets/img-2.jpg'),
+                variantImage: 'https://via.placeholder.com/300/0000FF/1C02AD?text=BLUE',
                 variantQty: 10,
                 variantSize: ["Medium","Large"]
             }]
